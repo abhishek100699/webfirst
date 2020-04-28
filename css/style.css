@@ -1,0 +1,40 @@
+body {
+    background-color: #084177;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+
+
+  }
+
+  .top {
+    background-color: #b2ebf2;
+    padding-top: 100px;
+}
+
+.middle-container{
+   background-color:#f6f4e6;
+
+}
+.contact-me{
+  background-color:#c9b6e4;
+}
+
+
+h1{
+  font-family: 'Sacramento', cursive;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.myimg{
+  height:300px;
+  width:200px;
+}
+.kite{
+  height:300px;
+  width:300px;
+}
